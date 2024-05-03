@@ -1,5 +1,6 @@
 # to be ignored by git 
 additional_resources/
+saved_files/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
